@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=2C9F6E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Learning+Full‑Stack+Developer;Java+%26+C%23+Enthusiast;Exploring+Node.js+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=2C9F6E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Learning+Full‑Stack+Developer;Java+%26+C%23+Enthusiast;Exploring+Node.js+%26+Cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,19 +39,19 @@ I'm a **passionate developer on a learning journey** 🚀. I enjoy building web 
 ## 📈 GitHub Stats
 
 <table align="center">
-   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=FlowerRiverTears&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2C9F6E&icon_color=2C9F6E" />
-     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerRiverTears&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=2C9F6E" />
-     </td>
-   </tr>
-   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlowerRiverTears&hide_border=true&theme=radical&background=0d1117&stroke=2C9F6E&ring=2C9F6E&fire=2C9F6E&currStreakNum=FFFFFF" />
-     </td>
-   </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=FlowerRiverTears&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2C9F6E&icon_color=2C9F6E" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerRiverTears&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=2C9F6E" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlowerRiverTears&hide_border=true&theme=radical&background=0d1117&stroke=2C9F6E&ring=2C9F6E&fire=2C9F6E&currStreakNum=FFFFFF" />
+        </td>
+    </tr>
 </table>
 
 ---

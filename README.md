@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🔭 I'm currently working on full-stack development with .NET & Spring Boot.
 - 🌱 I'm learning **Node.js** to expand my backend skills.
-- 💬 Ask me about **Java, C#, Spring Boot, .NET Framework, or web development**.
+- 💬 Ask me about **Java, C#, Spring Boot, or web development**.
 - ⚡ Fun fact: I enjoy building responsive and interactive web applications.
 
 ## 🛠️ Tech Stack

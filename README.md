@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2C9F6E&center=true&vCenter=true&width=500&lines=Full‑Stack+Architect;Spring+Boot+%26+ASP.NET+Core;Microservices+%26+Cloud;Node.js+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=2C9F6E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Learning+Full‑Stack+Developer;Java+%26+C%23+Enthusiast;Exploring+Node.js+%26+Cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,31 +26,32 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **full‑stack architect** with a strong focus on **building scalable, distributed systems**. I thrive at the intersection of **Java (Spring Boot)** and **C# (ASP.NET Core)** ecosystems, and I design clean, performant frontends with **Vue.js**. Currently expanding my toolkit with **Node.js** to embrace event‑driven architectures.
+I'm a **passionate developer on a learning journey** 🚀. I enjoy building web applications with **Java (Spring Boot)** and **C# (ASP.NET Core)** , and I'm currently diving deep into **Node.js** to become a more versatile full‑stack developer.
 
-- 🔭 Architecting microservices with **Spring Cloud** & **.NET**
-- 🌱 Diving deep into **Node.js** and serverless paradigms
-- 💬 Let's talk about **system design, cloud-native patterns, and clean code**
-- ⚡ Fun fact: I refactor code for fun — it’s my meditation
+- 🔭 I’m currently working on small projects to sharpen my skills
+- 🌱 I’m learning **Node.js** and exploring cloud services (AWS, Azure)
+- 👯 I’m looking to collaborate on **open source** and **beginner‑friendly** projects
+- 💬 Ask me about **Java, C#, web development, or how to start coding**
+- ⚡ Fun fact: I love solving coding challenges and sharing what I learn
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <table align="center">
-  <tr>
+   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=FlowerRiverTears&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=2C9F6E&icon_color=2C9F6E" />
-    </td>
+     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlowerRiverTears&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=2C9F6E" />
-    </td>
-  </tr>
-  <tr>
+     </td>
+   </tr>
+   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlowerRiverTears&hide_border=true&theme=radical&background=0d1117&stroke=2C9F6E&ring=2C9F6E&fire=2C9F6E&currStreakNum=FFFFFF" />
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 ---
@@ -87,5 +88,5 @@ I'm a **full‑stack architect** with a strong focus on **building scalable, dis
 </p>
 
 <p align="center">
-  <i>“Make it work, make it right, make it fast.”</i>
+  <i>“Always learning, always growing.” 🌱</i>
 </p>

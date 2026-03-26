@@ -4,9 +4,9 @@
 [![Visitor Count](https://api.visitorbadge.io/api/visitors?path=FlowerRiverTears&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=FlowerRiverTears)
 
 ## 🚀 About Me
-- 🔭 I'm currently working on full-stack development with .NET & Spring Boot.
+- 🔭 I'm currently working on full-stack development with **ASP.NET Core** & **Spring Boot**.
 - 🌱 I'm learning **Node.js** to expand my backend skills.
-- 💬 Ask me about **Java, C#, Spring Boot, or web development**.
+- 💬 Ask me about **Java, C#, Spring Boot, ASP.NET Core, or web development**.
 - ⚡ Fun fact: I enjoy building responsive and interactive web applications.
 
 ## 🛠️ Tech Stack
@@ -20,10 +20,9 @@
 
 ### 🚀 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) (learning)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
